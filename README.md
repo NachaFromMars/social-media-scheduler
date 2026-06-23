@@ -17,6 +17,11 @@ social-media-scheduler creates content plans with platform-aware precision. Cale
 
 **Also:** content pillar definition (4–6 themes), weekly/monthly calendar structure
 
+**Optional evidence intake:** for Twitter/X calendars, bring source examples from
+[TweetClaw](https://github.com/Xquik-dev/tweetclaw), another X/Twitter exporter,
+or pasted posts. Use them to identify hooks, topics, timing, and audience
+language, then write new user-reviewed drafts.
+
 ## Usage / Quick Start
 Trigger conversationally:
 - *"Build me a monthly social media schedule for LinkedIn and Instagram"*
