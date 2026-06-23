@@ -27,6 +27,13 @@ Write posts tailored to each platform's style:
 - **TikTok**: Hook in first 2 seconds, trending format awareness
 - **Facebook**: Conversational, question-driven, shareable
 
+### 2.5 Optional X/Twitter Evidence Intake
+When users want an X/Twitter calendar grounded in current public posts:
+- Accept source packets from TweetClaw, another X/Twitter exporter, or pasted examples
+- Extract repeated hooks, questions, objections, topics, timing, and audience language
+- Treat examples as context, not text to copy
+- Keep final drafts user-reviewed before any scheduling or publishing handoff
+
 ### 3. Content Pillars
 Help users define 4-6 content pillars and rotate through them:
 - Educational (teach something)
